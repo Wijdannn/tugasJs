@@ -1,0 +1,56 @@
+*{
+  margin : 0;
+  padding :0;
+  }
+  .tbl{
+  margin : 100px;
+  }
+  table {
+  width :auto;
+  margin:auto;
+  border: 2px solid black;
+  border-radius: 10px 10px;
+  }
+  
+  .tbl .gbr{
+  display:flex;
+  justify-content:center;
+  border: 1px solid black;
+  border-radius: 10px 10px;
+  }
+  img{
+  width: 250px;
+  border: 1px;
+  border-radius: 10px 10px;
+  }
+  label{
+  display:inline-block;
+  width:90px;
+  }
+  
+  .sbm {
+      display: flex;
+      justify-content: end;
+      margin: 20px;
+  }
+  
+  .tbl .sbm #sb{
+      width: 50px;
+  }
+
+  .user {
+    padding-top:20px ;
+    padding-left: 10px;
+  }
+
+  .fm {
+    width: 300px;
+  }
+
+  .password{
+    padding-left: 10px;
+  }
+
+  .sb{
+    width: 75px;
+  }
